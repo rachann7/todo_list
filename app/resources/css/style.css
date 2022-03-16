@@ -5,7 +5,7 @@ body, input, button  {
 }
 
 header {
-    width: 99%;
+    width: 98.95%;
     height: 80px;
     position: fixed;
     padding: 15px;
@@ -20,7 +20,7 @@ header {
 }
 
 header input {
-    width: 99%;
+    width: 98.95%;
     height: 50px; 
     float: left;
     color: #000;
