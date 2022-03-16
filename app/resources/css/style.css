@@ -79,6 +79,7 @@ header button {
     -ms-appearance: none;
     -o-appearance: none;
     appearance: none;
+    cursor: pointer;
 }
 
 header button svg {
