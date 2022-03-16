@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-image: url('/icons/bubble_background.jpeg');
+    background-image: url('bubble_background.jpeg');
 }
 
 header {
