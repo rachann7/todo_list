@@ -24,6 +24,9 @@ header input {
     height: 50px; 
     float: left;
     color: #000;
+    font-size: 15px;
+    font-weight: 400;
+    text-indent: 18px;
     background: rgba(255, 255, 255, 0.2);
 
     border-top-left-radius: 5px;
@@ -43,4 +46,25 @@ header input {
 
 header input::-webkit-input-placeholder {
     color:rgba(10, 10, 10, 0.75);
+}
+
+header input:-moz-input-placeholder {
+    color:rgba(10, 10, 10, 0.75);
+}
+
+header input::-moz-input-placeholder {
+    color:rgba(10, 10, 10, 0.75);
+}
+
+header input::-ms-input-placeholder {
+    color:rgba(10, 10, 10, 0.75);
+}
+
+header button {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    z-index: 2;
 }
