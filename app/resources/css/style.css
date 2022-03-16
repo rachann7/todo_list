@@ -35,3 +35,7 @@ header input {
     -o-appearance: none;
     appearance: none;
 }
+
+header input::-webkit-input-placeholder {
+    color:rgba(255, 255, 255, 0.75);
+}
