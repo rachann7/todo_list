@@ -119,9 +119,4 @@ ul.todo li {
     background: #b3d9ff;
     border-radius: 5px;
     box-shadow: 8px, 2px, 4px rgba(42, 62, 80, 0.10);
-    margin: 0 0 10px 0;
-}
-
-ul.todo li:last-of-type {
-    margin: 0;
 }
